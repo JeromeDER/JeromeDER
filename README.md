@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### SKILLS
-SQL : Expert;
-Python : Debutant
+- SQL : Expert
+- Python : Debutant
