@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ### SKILLS
 - SQL : Expert
 - Python : Debutant
+
+### CODEWARS
+https://www.codewars.com/users/JeromeDER/badges/small
